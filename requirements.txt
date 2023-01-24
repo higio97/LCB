@@ -1,0 +1,6 @@
+# --- For-Bot-Working --------- #
+Pyrogram==2.0.57
+TgCrypto==1.2.3
+# --- For-Database ------------ #
+pymongo
+dnspython
